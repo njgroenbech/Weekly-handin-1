@@ -1,4 +1,4 @@
-package com.example.weeklyhandin1
+package com.example.weeklyhandin1.handin1
 import java.util.Scanner
 
 // Kalder funktioner i main function nederst i dokumentet
