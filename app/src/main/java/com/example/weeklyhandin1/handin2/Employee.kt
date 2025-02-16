@@ -7,7 +7,7 @@ class Employee(
 )
 {
     init {
-        if (monthlySalary <= 0.0f) {
+        if (monthlySalary < 0.0f) {
             println("Error: salary cannot be lower than 0.")
             monthlySalary = 0.0f
         } else {

@@ -81,6 +81,9 @@ fun main () {
     smartphone.powerOn()
     println("---")
 
+    val computer3 = Computer("asd", "asd", true)
+    println(computer3)
+
     // Opg 3
     val shoe = Shoe("Converse", 49.99f, 30)
     val identifyShoe = shoe.identifyProductCategory()
